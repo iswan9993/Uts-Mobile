@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834447557887",
+    "project_id": "aexonjp",
+    "storage_bucket": "aexonjp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834447557887:android:cdb82d901bd62ff371f8ca",
+        "android_client_info": {
+          "package_name": "com.example.piranti_bergerak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjREW49pHR-VlFYvmps_HkP1SkHXpP8Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
